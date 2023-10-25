@@ -2,7 +2,7 @@
 
 🌱 Currently learning: Software Engineering and Informatics .
 
-💼 Skills: ``C`` ``C++`` ``Java`` ``JavaScript`` ``HTML/CSS``.
+💼 Skills: ``C`` ``C++`` ``Java`` ``JavaScript`` ``HTML/CSS``
 
 📫 Contact me: Reynalde.SEGERIE@etu.uca.fr
 
