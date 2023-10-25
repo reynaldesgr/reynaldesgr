@@ -1,6 +1,6 @@
 🚀 IT Student & Passionate developer based in Clermont-Ferrand. 
 
-🌱 Currently learning: Software Engineering and Informatics .
+🌱 Currently learning: Software Engineering and Informatics Systems.
 
 💼 Skills: ``C`` ``C++`` ``Java`` ``JavaScript`` ``HTML/CSS``
 
