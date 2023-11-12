@@ -6,13 +6,13 @@
 </head>
 <body>
 
-<h3>🚀 IT Student & Passionate Developer</h3>
+<h3> 🚀 IT Student & Passionate Developer</h3>
 
 ``ISIMA - Clermont-Ferrand``
 
-<h3>🌱Software Engineering and Informatics Systems </h3>
+<h3> 🌱 Software Engineering and Informatics Systems </h3>
 
-<h3>💼 Skills</h3>
+<h3> 💼 Skills</h3>
 
 <blockquote>
     <h4>Programming Languages</h4>
@@ -49,7 +49,7 @@
     </ul>
 </blockquote>
 
-<h3>📫 Contact</h3>
+<h3> 📫 Contact</h3>
 
 ``Reynalde.SEGERIE@etu.uca.fr``
 
