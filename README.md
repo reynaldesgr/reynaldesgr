@@ -51,7 +51,7 @@
 
 <h2>📫 Contact</h2>
 
-Email: ``Reynalde.SEGERIE@etu.uca.fr``
+``Reynalde.SEGERIE@etu.uca.fr``
 
 </body>
 </html>
