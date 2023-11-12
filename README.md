@@ -8,9 +8,7 @@
 
 <h2>🚀 IT Student & Passionate Developer</h2>
 
-<blockquote>
-    <p>``ISIMA - Clermont-Ferrand``</p>
-</blockquote>
+ <p>``ISIMA - Clermont-Ferrand``</p>
 
 <h2>🌱Software Engineering and Informatics Systems </h2>
 
@@ -53,9 +51,7 @@
 
 <h2>📫 Contact</h2>
 
-<blockquote>
-    <p>Email: ``Reynalde.SEGERIE@etu.uca.fr``</p>
-</blockquote>
+<p>Email: ``Reynalde.SEGERIE@etu.uca.fr``</p>
 
 </body>
 </html>
