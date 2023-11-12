@@ -6,16 +6,16 @@
 </head>
 <body>
 
-<h2>🚀 IT Student & Passionate Developer</h2>
+<h3>🚀 IT Student & Passionate Developer</h3>
 
 ``ISIMA - Clermont-Ferrand``
 
-<h2>🌱Software Engineering and Informatics Systems </h2>
+<h3>🌱Software Engineering and Informatics Systems </h3>
 
-<h2>💼 Skills</h2>
+<h3>💼 Skills</h3>
 
 <blockquote>
-    <h3>Programming Languages</h3>
+    <h4>Programming Languages</h4>
     <ul>
         <li>C</li>
         <li>C++</li>
@@ -25,7 +25,7 @@
     </ul>
 </blockquote>
 <blockquote>
-    <h3>Web Development</h3>
+    <h4>Web Development</h4>
     <ul>
         <li>HTML/CSS</li>
         <li>JavaScript</li>
@@ -34,13 +34,13 @@
     </ul>
 </blockquote>
 <blockquote>
-    <h3>Database Languages</h3>
+    <h4>Database</h4>
     <ul>
         <li>MySQL</li>
     </ul>
 </blockquote>
 <blockquote>
-    <h3>Development Tools</h3>
+    <h4>Development Tools</h4>
     <ul>
         <li>IntelliJ IDEA</li>
         <li>Eclipse</li>
@@ -49,7 +49,7 @@
     </ul>
 </blockquote>
 
-<h2>📫 Contact</h2>
+<h3>📫 Contact</h3>
 
 ``Reynalde.SEGERIE@etu.uca.fr``
 
