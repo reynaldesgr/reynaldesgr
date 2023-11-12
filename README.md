@@ -12,11 +12,7 @@
     <p>ISIMA - Clermont-Ferrand</p>
 </blockquote>
 
-<h2>🌱 Currently Learning</h2>
-
-<blockquote>
-    <p>Software Engineering and Informatics Systems.</p>
-</blockquote>
+<h2>🌱Software Engineering and Informatics Systems </h2>
 
 <h2>💼 Skills</h2>
 
