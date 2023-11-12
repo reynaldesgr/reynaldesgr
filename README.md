@@ -6,7 +6,7 @@
 
 📫 Contact me: Reynalde.SEGERIE@etu.uca.fr
 
-<img src="https://global-uploads.webflow.com/5d0dc87aac109e1ffdbe379c/60ae653a7639216a82aa0070_7x2m3HcBJUs05fsu_zK9Ik2fD-_lSQoCGnP3oGsvpVwWRj2qGlufGIaGczR8uxrZaW72BlOgchjWhxII4UgidQeyF1GMHHaKtJo-yyZZ3eKTfSM6Puxx1BI_EcjEUG646dMwYE8.png" width=30><img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_-512x512.png" width=30><img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png" width=30>
+<img src="https://global-uploads.webflow.com/5d0dc87aac109e1ffdbe379c/60ae653a7639216a82aa0070_7x2m3HcBJUs05fsu_zK9Ik2fD-_lSQoCGnP3oGsvpVwWRj2qGlufGIaGczR8uxrZaW72BlOgchjWhxII4UgidQeyF1GMHHaKtJo-yyZZ3eKTfSM6Puxx1BI_EcjEUG646dMwYE8.png" width=30><img src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_-512x512.png" width=35><img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png" width=30>
 
 
 
