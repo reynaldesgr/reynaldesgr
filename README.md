@@ -7,4 +7,4 @@
 📫 Contact me: Reynalde.SEGERIE@etu.uca.fr
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gifc" width=10>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width=10>
