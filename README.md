@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,7 +29,8 @@
         <li>Java</li>
         <li>Python</li>
     </ul>
-
+</blockquote>
+<blockquote>
     <h3>Web Development</h3>
     <ul>
         <li>HTML/CSS</li>
@@ -38,12 +38,14 @@
         <li>Angular</li>
         <li>Spark</li>
     </ul>
-
+</blockquote>
+<blockquote>
     <h3>Database Languages</h3>
     <ul>
         <li>MySQL</li>
     </ul>
-
+</blockquote>
+<blockquote>
     <h3>Development Tools</h3>
     <ul>
         <li>IntelliJ IDEA</li>
