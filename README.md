@@ -2,7 +2,8 @@
 
 🌱 Currently learning: Software Engineering and Informatics Systems.
 
-💼 Skills: 
+💼 Skills
+
 * ``Programming languages``
   * ``C`` ``C++`` ``C#/.NET`` ``Java`` ``Python``
 * ``Web development``
@@ -11,4 +12,5 @@
    * ``MySQL``
 * ``Development tools``
    * ``IntelliJ IDEA`` ``Eclipse`` ``VS`` ``VSCode`` 
+
 📫 Contact me: Reynalde.SEGERIE@etu.uca.fr
