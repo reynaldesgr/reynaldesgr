@@ -5,30 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            font-family: 'Courier New', monospace; /* Utiliser une police monospace */
+            font-family: 'Courier New', monospace;
             line-height: 1.6;
             margin: 20px;
-        }
-
-        h2 {
-            color: #333;
-        }
-
-        blockquote {
-            border-left: 4px solid #333;
-            padding-left: 20px;
-            margin-top: 10px;
-            margin-bottom: 20px;
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        li {
-            margin-bottom: 5px;
         }
     </style>
 </head>
