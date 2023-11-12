@@ -1,14 +1,43 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Courier New', monospace; /* Utiliser une police monospace */
+            line-height: 1.6;
+            margin: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        blockquote {
+            border-left: 4px solid #333;
+            padding-left: 20px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
 </head>
 <body>
 
 <h2>🚀 IT Student & Passionate Developer</h2>
 
 <blockquote>
-    <p>Based in Clermont-Ferrand.</p>
+    <p>ISIMA - Clermont-Ferrand</p>
 </blockquote>
 
 <h2>🌱 Currently Learning</h2>
@@ -54,7 +83,7 @@
     </ul>
 </blockquote>
 
-<h2>📫 Contact me</h2>
+<h2>📫 Contact</h2>
 
 <blockquote>
     <p>Email: Reynalde.SEGERIE@etu.uca.fr</p>
