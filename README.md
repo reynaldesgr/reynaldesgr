@@ -1,16 +1,63 @@
-🚀 IT Student & Passionate developer based in Clermont-Ferrand. 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Profil</title>
+</head>
+<body>
 
-🌱 Currently learning: Software Engineering and Informatics Systems.
+<h2>🚀 IT Student & Passionate Developer</h2>
 
-💼 Skills
+<blockquote>
+    <p>Based in Clermont-Ferrand.</p>
+</blockquote>
 
-* ``Programming languages``
-  * ``C`` ``C++`` ``C#/.NET`` ``Java`` ``Python``
-* ``Web development``
-  * ``HTML/CSS`` ``JS`` ``Angular`` ``Spark``
-* ``Database languages``
-   * ``MySQL``
-* ``Development tools``
-   * ``IntelliJ IDEA`` ``Eclipse`` ``VS`` ``VSCode`` 
+<h2>🌱 Currently Learning</h2>
 
-📫 Contact me: Reynalde.SEGERIE@etu.uca.fr
+<blockquote>
+    <p>Software Engineering and Informatics Systems.</p>
+</blockquote>
+
+<h2>💼 Skills</h2>
+
+<blockquote>
+    <h3>Programming Languages</h3>
+    <ul>
+        <li>C</li>
+        <li>C++</li>
+        <li>C#/.NET</li>
+        <li>Java</li>
+        <li>Python</li>
+    </ul>
+
+    <h3>Web Development</h3>
+    <ul>
+        <li>HTML/CSS</li>
+        <li>JavaScript</li>
+        <li>Angular</li>
+        <li>Spark</li>
+    </ul>
+
+    <h3>Database Languages</h3>
+    <ul>
+        <li>MySQL</li>
+    </ul>
+
+    <h3>Development Tools</h3>
+    <ul>
+        <li>IntelliJ IDEA</li>
+        <li>Eclipse</li>
+        <li>Visual Studio</li>
+        <li>VSCode</li>
+    </ul>
+</blockquote>
+
+<h2>📫 Contact me</h2>
+
+<blockquote>
+    <p>Email: Reynalde.SEGERIE@etu.uca.fr</p>
+</blockquote>
+
+</body>
+</html>
