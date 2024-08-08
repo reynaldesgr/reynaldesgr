@@ -55,3 +55,5 @@
 
 </body>
 </html>
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=reynaldesgr&show_icons=true&theme=radical)
+
