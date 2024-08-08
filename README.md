@@ -52,8 +52,8 @@
 <h3> 📫 Contact</h3>
 
 ``Reynalde.SEGERIE@etu.uca.fr``
-
+<img src="https://github-readme-stats.vercel.app/api?username=reynaldesgr&show_icons=true&theme=radical" alt="reynaldesgr's stats">
+</body>
 </body>
 </html>
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=reynaldesgr&show_icons=true&theme=radical)
 
