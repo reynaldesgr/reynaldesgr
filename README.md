@@ -11,6 +11,7 @@
 ``ISIMA - Clermont-Ferrand``
 
 <h3> 🌱 Software Engineering and Informatics Systems </h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldesgr&show_icons=true&theme=radical&&layout=donut" alt="reynaldesgr's top language">
 
 <h3> 💼 Skills</h3>
 
