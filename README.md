@@ -9,7 +9,6 @@
 <h3> 🚀 IT Student & Passionate Developer</h3>
 
 ``ISIMA - Clermont-Ferrand``
-<img src="https://github-readme-stats.vercel.app/api?username=reynaldesgr&show_icons=true&theme=radical" alt="reynaldesgr's stats">
 
 <h3> 🌱 Software Engineering and Informatics Systems </h3>
 
@@ -49,7 +48,9 @@
         <li>VSCode</li>
     </ul>
 </blockquote>
-
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=reynaldesgr&show_icons=true&theme=radical" alt="reynaldesgr's stats">
+</br>
 <h3> 📫 Contact</h3>
 
 ``Reynalde.SEGERIE@etu.uca.fr``
