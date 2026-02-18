@@ -54,7 +54,7 @@
 </br>
 <h3> 📫 Contact</h3>
 
-``Reynalde.SEGERIE@etu.uca.fr``
+``reynalde.segerie.deveze@gmail.com``
 </body>
 </body>
 </html>
